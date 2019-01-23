@@ -30,10 +30,10 @@
 
 }
 
-.col-2 {
+.col-2 h3 {
     float: right;
     width: 48%
-
+    text-align: center;
 }
 
 .col-3 {
